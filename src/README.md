@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: /logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+title: 首页
+heroImage: /logo.png
+heroText: 测试博客
+heroFullScreen: false
+tagline: 间歇性踌躇满志，持续性混吃等死
 projects:
   - icon: project
     name: 项目名称
@@ -33,12 +33,7 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: /logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
+footer: 测试页脚
 ---
 
 这是一个博客主页的案例。

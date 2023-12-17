@@ -4,10 +4,10 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "如何使用",
+      text: "分布式",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "分布式/",
+      link: "分布式/",
       children: "structure",
     },
     {

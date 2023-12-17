@@ -4,6 +4,11 @@ export default navbar([
   "/",
   "/demo/",
   {
+    text: "分布式",
+    icon: "pen-to-square",
+    link: "/分布式/",
+  },
+  {
     text: "博文",
     icon: "pen-to-square",
     prefix: "/posts/",
