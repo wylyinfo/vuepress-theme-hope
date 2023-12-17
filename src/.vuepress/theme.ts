@@ -72,6 +72,8 @@ export default hopeTheme({
     config: {
       "/demo/encrypt.html": ["1234"],
     },
+    global: true,
+    admin: ["admin.123"]
   },
 
   // page meta
