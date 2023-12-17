@@ -15,9 +15,11 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "wylyinfo/vuepress-theme-hope",
 
   docsDir: "src",
+  docsRepo: "wylyinfo/vuepress-theme-hope",
+  docsBranch: "master",
 
   // navbar
   navbar,
