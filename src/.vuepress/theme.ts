@@ -91,6 +91,14 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
+    comment: {
+      // You should generate and use your own comment service
+      provider: "Giscus",
+      repo: "wylyinfo/vuepress-theme-hope-comment",
+      repoId: "R_kgDOK6t1OA", // 替换下
+      category: "Announcements",
+      categoryId: "DIC_kwDOK6t1OM4Cbz2O" // 替换下
+    },
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
